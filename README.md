@@ -1,9 +1,11 @@
-# Bundesliga Offensive Stats ⚽
-
+# Scrapers ⚽
+## Bundesliga Offesive Stats
 This is a scraper of the players of top 7 teams of the Bundesliga for 2020-21 season.<br>
 Why top 7?<br>
 Because the top 7 teams from Bundesliga go to the European competitions.<br>
 I have uploaded this dataset on Kaggle [here](https://www.kaggle.com/rajatrc1705/bundesliga-top-7-teams-offensive-stats)
+## EPL Player Statistics
+This is a scraper of the players of all EPL teams for 2020-21 season. <br>
 
 ## Content ✒
 
@@ -16,6 +18,8 @@ The not so obvious attributes are described below.
 | Mins | The number of minutes played by the player. |
 | Goals | The number of Goals scored by the player. |
 | Assists | The number of times the player has assisted other player in scoring the goal. |
+| Passes_Attempted | The number of passes attempted by the player. |
+| Perc_Passes_Completed | The number of passes that the player accurately passed to his teammate. |
 | xG | Expected number of goals from the player in a match. |
 | xA | Expected number of assists from the player in a match. |
 | Yellow_Cards | The players get a yellow card from the referee for indiscipline, technical fouls, or other minor fouls. |
