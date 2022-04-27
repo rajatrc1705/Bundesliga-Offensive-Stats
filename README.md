@@ -5,6 +5,9 @@ Why top 7?<br>
 Because the top 7 teams from Bundesliga go to the European competitions.<br>
 I have uploaded this dataset on Kaggle [here](https://www.kaggle.com/rajatrc1705/bundesliga-top-7-teams-offensive-stats)
 ## EPL Player Statistics
+
+[Kaggle Link For Dataset](https://www.kaggle.com/datasets/rajatrc1705/english-premier-league202021)
+
 This is a scraper of the players of all EPL teams for 2020-21 season. <br>
 
 ## Content ✒
