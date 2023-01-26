@@ -1,10 +1,12 @@
 # Scrapers ⚽
-## Bundesliga Offesive Stats
+## Bundesliga Offesive Stats (Kaggle Bronze Medal Dataset)
 This is a scraper of the players of top 7 teams of the Bundesliga for 2020-21 season.<br>
 Why top 7?<br>
 Because the top 7 teams from Bundesliga go to the European competitions.<br>
 I have uploaded this dataset on Kaggle [here](https://www.kaggle.com/rajatrc1705/bundesliga-top-7-teams-offensive-stats)
-## EPL Player Statistics
+
+## EPL Player Statistics (Kaggle Silver Medal Dataset!)
+### 34k+ Views | ~6000 Downloads
 
 [Kaggle Link For Dataset](https://www.kaggle.com/datasets/rajatrc1705/english-premier-league202021)
 
