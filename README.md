@@ -41,7 +41,7 @@ The different directions you can take with this dataset are:
 1) Create Dashboard for all main statistics
 
 eg:-
-![image](https://user-images.githubusercontent.com/52173002/215266830-e5d31c54-fc19-4e81-942d-0b890debe42b.png)
+![image](https://user-images.githubusercontent.com/52173002/215268615-186b3353-fcd8-4d65-8364-6b89d7ffbf2d.png)
 
 2) Performance of players of different nationality
 
